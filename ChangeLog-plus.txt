@@ -1,11 +1,11 @@
 {"version_code":452646,"content":"
 <p>تحديث 7.00</p>
 
-<li>نسخة ضد الحظر في حال تم حظرك سابقا يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتس وتثبيت النسخة هذي </li>
-<li>إصلاحات اخرى</li>
+<li>نرجو التكرم بتحميل تطبيقنا الجديد وتقييمة  </li>
 
 
 
 
-","url":"https://plus-mods.com/whatsapp/"
+
+","url":"https://play.google.com/store/apps/details?id=aplic739792.uik/"
 }
