@@ -1,11 +1,11 @@
 {"version_code":452812,"content":"
-<p>تحديث 7.00</p>
+<p>تحديث 7.60</p>
 
-<li>نرجو التكرم بتحميل تطبيقنا الجديد وتقييمة  </li>
-
-
+<li>  </li>
 
 
 
-","url":"https://play.google.com/store/apps/details?id=aplic739792.uik/"
+
+
+","url":"https://plus-mods.com"
 }
