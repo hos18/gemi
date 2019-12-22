@@ -1,4 +1,4 @@
-{"version_code":452812,"content":"
+{"version_code":453019,"content":"
 <p>تحديث 7.60</p>
 
 <li>  </li>
